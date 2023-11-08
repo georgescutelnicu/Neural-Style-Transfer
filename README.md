@@ -4,8 +4,7 @@ Implementation of Neural Style Transfer from the paper A Neural Algorithm of Art
 
 #### Requirements:
 * [NumPy](http://www.numpy.org/)
-* [Torch](https://pytorch.org/)
-* [Torchvision](https://pytorch.org/)
+* [PyTorch](https://pytorch.org/)
 * [Matplotlib](http://matplotlib.org/)
 * [Torchinfo](https://github.com/TylerYep/torchinfo)
 * [Pillow](https://pillow.readthedocs.io/en/stable/)
