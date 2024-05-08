@@ -19,4 +19,8 @@ Implementation of Neural Style Transfer from the paper A Neural Algorithm of Art
 #### Example 3:
 ![](extras/example3.png)
 
-### [[DEMO]](https://huggingface.co/spaces/georgescutelnicu/neural-style-transfer)
+
+#### Demo
+<a href="https://huggingface.co/spaces/georgescutelnicu/neural-style-transfer">
+    <img src="https://img.shields.io/badge/Deployed%20on%20Hugging%20Face%20with%20Gradio-FFA500"></img>
+</a>
